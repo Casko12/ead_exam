@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EadExamApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(EadExamApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(EadExamApplication.class, args);
+    }
 
 }

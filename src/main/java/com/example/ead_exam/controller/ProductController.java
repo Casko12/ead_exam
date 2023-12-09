@@ -1,2 +1,4 @@
-package com.example.ead_exam.controller;public class ProductController {
+package com.example.ead_exam.controller;
+
+public class ProductController {
 }

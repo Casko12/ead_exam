@@ -1,2 +1,11 @@
-package com.example.ead_exam.service;public class ProductService {
+package com.example.ead_exam.service;
+
+import com.example.ead_exam.entity.Product;
+import org.springframework.stereotype.Service;
+
+import java.util.List;
+
+@Service
+public interface ProductService {
+    List<Product> findAllProduct();
 }
